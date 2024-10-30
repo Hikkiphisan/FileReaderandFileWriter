@@ -1,0 +1,3 @@
+Ngoại lệ được phát hiện (thrown) bởi JVM hoặc do chính chương trình tự ném ra.
+Hệ thống tìm kiếm bộ xử lý ngoại lệ tương ứng theo trình tự ngăn xếp lời gọi (call stack).
+Chương trình nhảy đến khối catch phù hợp hoặc kết thúc nếu không tìm thấy khối xử lý lỗi.
